@@ -1,0 +1,7 @@
+eirp_dbm: 60
+interferer_count: 20
+outage_threshold_db: 0
+altitude_sweep_m: [600000, 900000, 1200000]
+bandwidth_sweep_hz: [5.0e6, 10.0e6, 20.0e6]
+beam_discrimination_sweep_db: [0, 5, 10, 15]
+

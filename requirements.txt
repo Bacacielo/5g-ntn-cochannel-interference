@@ -1,0 +1,7 @@
+-e .
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+PyYAML>=6.0
+pytest>=8.0
+streamlit>=1.40

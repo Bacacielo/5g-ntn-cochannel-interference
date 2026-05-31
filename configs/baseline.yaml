@@ -1,0 +1,20 @@
+carrier_frequency_hz: 2.0e9
+bandwidth_hz: 5.0e6
+altitude_m: 600000
+serving_elevation_deg: 60
+interferer_elevation_min_deg: 10
+interferer_elevation_max_deg: 60
+receiver_gain_dbi: 0
+receiver_noise_figure_db: 7
+misc_losses_db: 2
+serving_shadow_std_db: 2
+interferer_shadow_std_db: 4
+eirp_scenarios_dbm: [50, 55, 60]
+interferer_counts:
+  start: 0
+  stop: 50
+  step: 1
+monte_carlo_trials: 10000
+outage_thresholds_db: [0, 3]
+random_seed: 42
+
