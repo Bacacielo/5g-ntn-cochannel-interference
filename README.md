@@ -3,6 +3,12 @@
 Python simulation and Streamlit dashboard for studying aggregate co-channel
 interference in 5G non-terrestrial network direct-to-device links.
 
+## Live App
+
+The interactive dashboard is deployed on Streamlit Community Cloud:
+
+https://5g-ntn-cochannel-interference-8uvnzwsjmmeprnj3zj6hxj.streamlit.app/
+
 ## Contents
 
 - `src/ntn_interference/`: simulation source code.
